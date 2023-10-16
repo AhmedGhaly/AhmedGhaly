@@ -71,3 +71,7 @@
 
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/AhmedGhaly/AhmedGhaly/output/snake.svg" alt="Snake animation" />
+
+###
